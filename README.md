@@ -41,10 +41,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamta-02&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mamta-02&show_icons=true&theme=radical&cache_seconds=1800" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamta-02&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=mamta-02&theme=radical" />
 </p>
+
 
 
 ---
