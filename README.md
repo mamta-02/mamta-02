@@ -16,7 +16,8 @@
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,python,c,cpp,oracle,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,python,c,cpp,mysql,github" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
 </p>
 
 ---
@@ -40,10 +41,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mamta-02&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamta-02&theme=radical" />
 </p>
+
 
 ---
 
