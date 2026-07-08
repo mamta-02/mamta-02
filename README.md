@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,python,c,cpp,mysql,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,python,c,cpp,github" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
 </p>
 
