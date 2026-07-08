@@ -15,10 +15,12 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,wordpress,python,c,cpp,mysql,github" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mamta-02&show_icons=true&theme=radical&cache_seconds=86400" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=mamta-02&theme=radical" />
 </p>
+
 
 ---
 
